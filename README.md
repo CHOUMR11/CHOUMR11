@@ -2,7 +2,7 @@
 
 🚀 Software Engineering Student | Full-Stack & Mobile Developer | AI & Cloud Enthusiast
 
-I'm a passionate software engineering student at ESSAT Gabès 🇹🇳, with hands-on experience in building full-stack web apps and cross-platform mobile apps. My work blends **MERN**, **Spring Boot**, **Flutter**, and **Cloud technologies** to bring creative solutions to real-world problems.
+I'm a passionate software engineering student at ESSAT Gabès 🇹🇳, with hands-on experience in building full-stack web apps and cross-platform mobile apps. My work blends **MERN**, **MEAN**, **Spring Boot**, **Flutter**, and **Cloud technologies** to bring creative solutions to real-world problems.
 
 ---
 
