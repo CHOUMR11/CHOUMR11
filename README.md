@@ -19,7 +19,7 @@ I’m a **Junior Software Engineer** passionate about building **web apps, mobil
 
 ### 💼 Work Experience
 
-- **Freelancer** — Developing web & mobile apps, IoT solutions, 2022–Present  
+- **Freelancer** — Developing web & mobile apps, IoT solutions, 2020–Present  
 - **ALmatechnology** — Junior Software Engineer, 2024–2025  
 - **Mobinnov Group** — Developer for **Mossefer App**, 2024–Present  
 
