@@ -56,6 +56,7 @@ Mobile-controlled Raspberry Pi app to **toggle LEDs in real-time**.
 
 - **Secondary School:** Prep Sombat | 2011–2015  
 - **Higher Preparatory Engineering Student:** 2020  
+- **Bachelor in Mathematics:** 2020–2022  
 - **ESSAT - École Supérieure des Sciences Appliquées et de la Technologie Privée de Gabès**  
   *Engineer's Degree in Computer Software Engineering* | 2022–2025  
 
