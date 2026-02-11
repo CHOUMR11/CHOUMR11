@@ -17,6 +17,14 @@ I’m a **Junior Software Engineer** passionate about building **web apps, mobil
 
 ---
 
+### 💼 Work Experience
+
+- **Freelancer** — Developing web & mobile apps, IoT solutions, 2022–Present  
+- **ALmatechnology** — Junior Software Engineer, 2024–2025  
+- **Mobinnov Group** — Developer for **Mossefer App**, 2024–Present  
+
+---
+
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/oussama-chammar-687919240)  
