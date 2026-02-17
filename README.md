@@ -1,8 +1,8 @@
 # Hi there, I'm Oussama Chammar 👋
 
-🚀 **Junior Software Engineer | Full-Stack & Mobile Developer | AI & Cloud Enthusiast**
+🚀 **Software Engineer | Full-Stack & Mobile Developer | AI & Cloud Enthusiast**
 
-I’m a **Junior Software Engineer** passionate about building **web apps, mobile apps, and IoT solutions**. Skilled in **MERN, MEAN, Spring Boot, Flutter**, and **Cloud technologies**, I focus on creating **scalable, high-performance applications**.  
+I’m a **Software Engineer** passionate about building **web apps, mobile apps, and IoT solutions**. Skilled in **MERN, MEAN, Spring Boot, Flutter**, and **Cloud technologies**, I focus on creating **scalable, high-performance applications**.  
 
 ---
 
